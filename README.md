@@ -1,2 +1,2 @@
-# flutter-interview-prep
-Documentation of daily Data Structures &amp; Algorithms (DSA) solutions in Dart and theoretical interview question answers
+# Flutter Interview Prep
+Daily log of DSA problems solved on LeetCode/DartPad and deep-dives into Flutter internals.
